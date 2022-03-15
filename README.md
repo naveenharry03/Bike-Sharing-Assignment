@@ -40,7 +40,7 @@
 ## Data Understanding
 - Understand the datasets provided
 
-##Data Cleaning and Manipulation
+## Data Cleaning and Manipulation
 - Clean the data and perform some manipulation
 
 ## Data Visualization
